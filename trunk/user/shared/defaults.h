@@ -37,8 +37,8 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID	"Wireless_USB_pro "
-#define DEF_WLAN_5G_SSID	"Wireless_USB_pro_5G"
+#define DEF_WLAN_2G_SSID	"WirelessUSBPro"
+#define DEF_WLAN_5G_SSID	"WirelessUSBpro_5G"
 #define DEF_WLAN_2G_GSSID	"Wireless_USB_GUEST"
 #define DEF_WLAN_5G_GSSID	"Wireless_USB_GUEST_5G"
 #define DEF_WLAN_2G_PSK		"1234567890"
